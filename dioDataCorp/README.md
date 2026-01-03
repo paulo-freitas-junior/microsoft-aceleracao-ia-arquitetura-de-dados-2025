@@ -230,13 +230,6 @@ Cada documento inclui:
 
 Este é um projeto educacional. Sugestões de melhorias são bem-vindas!
 
-### Como Contribuir
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Commit suas mudanças
-4. Push para a branch
-5. Abra um Pull Request
-
 ## ⚖️ Licença
 
 Este projeto é fornecido para fins educacionais. Ao utilizá-lo em produção, certifique-se de:
@@ -250,11 +243,11 @@ Este projeto é fornecido para fins educacionais. Ao utilizá-lo em produção, 
 Para dúvidas ou problemas:
 - 📖 Consulte a documentação específica de cada versão
 - 💬 Abra uma issue no repositório
-- 📧 Entre em contato com a equipe DIO
+- 📧 Entre em contato
 
 ## 🎯 Recomendação Final
 
-**Para a maioria dos casos de uso, recomendamos a v3.0** por oferecer:
+**Para a maioria dos casos de uso, recomendo a v3.0** por oferecer:
 - ✅ Excelente equilíbrio segurança/simplicidade
 - ✅ Baixo custo operacional
 - ✅ Fácil manutenção
