@@ -27,7 +27,7 @@ A primeira versão demonstra uma implementação **completamente insegura** de u
 - ❌ Sem rate limiting
 - ❌ Sem logging ou auditoria
 
-**Documentação**: [`doc_bot_vulneravel.md`](/doc_bot_vulneravel.md)
+**Documentação**: [`doc_bot_vulneravel.md`](/docs/doc_bot_vulneravel.md)
 
 ---
 
@@ -45,7 +45,7 @@ A segunda versão implementa **segurança robusta** utilizando serviços externo
 - ⚠️ Requer Azure e Langfuse (custos adicionais)
 - ⚠️ Sem histórico de conversa
 
-**Documentação**: [`doc_bot_seguro_v2.md`](/doc_bot_seguro_v2.md)
+**Documentação**: [`doc_bot_seguro_v2.md`](/docs/doc_bot_seguro_v2.md)
 
 ---
 
@@ -65,7 +65,7 @@ A terceira versão representa a **implementação mais madura**, equilibrando se
 - ✅ Sem dependências pesadas (apenas Streamlit + OpenAI)
 - ✅ Controle de temperatura e tokens
 
-**Documentação**: [`doc_bot_seguro_v3.md`](/doc_bot_seguro_v3.md)
+**Documentação**: [`doc_bot_seguro_v3.md`](/docs/doc_bot_seguro_v3.md)
 
 ---
 
